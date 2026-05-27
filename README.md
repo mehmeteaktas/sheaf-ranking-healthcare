@@ -1,11 +1,15 @@
 # Identifying Top Performing  Providers: A Sheaf-theoretic Approach on Healthcare Networks
 By Corey Verkouteren, Djalil Sawadogo, Mehmet Aktas, and Esra Akbas
 
+**Published to ACM BCB 2025**
+
 This program is built to find the top healthcare providers within specific specialties in a given network. 
 This network is modeled as a graph in networkx. In this program, we test 3 methods of finding top providers, 
 including sheaf Laplacian centrality, graph (regular) Laplacian centrality, page rank, and katz centrality. 
 Our developed method is the sheaf Laplacian centrality, explored in an earlier paper on influence maximization.
 Sheaf Laplacian centrality also consistently performs significantly better when predicting top healthcare providers.
+
+<img width="1158" height="868" alt="image" src="https://github.com/user-attachments/assets/a19f9996-aba6-4cd2-b692-2ea051978ad4" />
 
 ## Figures
 <img width="707" height="516" alt="image" src="https://github.com/user-attachments/assets/4003a17c-4d45-4623-8192-726761456614" />
